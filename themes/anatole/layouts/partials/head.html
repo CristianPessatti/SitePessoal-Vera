@@ -37,6 +37,7 @@
 
 
   <!-- CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   {{ if eq .Site.Language.LanguageDirection "rtl" }}
     {{ $sassTemplate := resources.Get "scss/anatole.rtl.scss" }}
     {{ $style := $sassTemplate | resources.ExecuteAsTemplate "scss/main.rtl.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}

@@ -1,11 +1,11 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Vera Tomazella"
+author = "Vera Tomazella"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "Departamento de Estatística - Universidade Federal de São Carlos"
+profilePicture = "images/foto.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = ""
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
@@ -62,9 +62,9 @@ title = "Linkedin"
 url = "https://de.linkedin.com/"
 
 [[socialIcons]]
-icon = "fab fa-github"
+icon = "ai ai-lattes"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4701522J8"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
