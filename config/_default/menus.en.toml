@@ -1,8 +1,8 @@
   [[main]]
-  name = "Home"
+  name = "INÍCIO"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/inicio/"
 
   [[main]]
   name = "PROJETOS"
