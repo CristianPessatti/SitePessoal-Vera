@@ -1,7 +1,7 @@
-baseURL: https://example.com
+baseURL: http://leg.ufpr.br/~ara/vera_teste/
 languageCode: en
 DefaultContentLanguage: en
-title: site de Vera Tomazella
+title: Vera Tomazella
 theme: anatole
 summarylength: 10
 enableEmoji: yes
